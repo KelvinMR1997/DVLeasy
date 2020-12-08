@@ -47,7 +47,7 @@ if (isset($_SESSION['login'])) {
                     </ul>
                 </div>
                 <a href="index.php" class="hvr-bob">
-                    <img src="img\empresa-logo.png" width="30" height="30" fill="none" stroke="currentColor"
+                    <img src="IMG\empresa-logo.png" width="30" height="30" fill="none" stroke="currentColor"
                         stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="d-block mx-auto "
                         role="img" viewBox="0 0 24 24" focusable="false" style="border-radius: 20px;">
                 </a>
@@ -57,9 +57,9 @@ if (isset($_SESSION['login'])) {
     <!-- Banner y botones contacto, productos -->
 
     <div class="row" style="width: 100%;">
-        <img src="img/landing-code.svg" class="img-fluid img-banner  col-lg-6 col-md-12 col-sm-12"
+        <img src="IMG/landing-code.svg" class="img-fluid img-banner  col-lg-6 col-md-12 col-sm-12"
             alt="Responsive image">
-        <img src="img/landing-laptop.svg" class="img-fluid img-banner  col-lg-6 col-md-12 col-sm-12"
+        <img src="IMG/landing-laptop.svg" class="img-fluid img-banner  col-lg-6 col-md-12 col-sm-12"
             alt="Responsive image">
     </div>
 
