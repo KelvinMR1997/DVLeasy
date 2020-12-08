@@ -102,7 +102,8 @@ if (isset($_SESSION['login'])) {
                     <p class="card-text">Un software de inventariado de equipos de computo con niveles de acceso</p>
                 </div>
                 <div class="card-footer">
-                    <a class="btn btn-secondary btn-lg boton-largo color-blanco" href="SOPIEC/index.php">Ingresar
+                    <a class="btn btn-secondary btn-lg boton-largo color-blanco"
+                        href="https://stormy-wave-44188.herokuapp.com/">Ingresar
                         <i class="fas fa-arrow-right"></i></a>
                 </div>
             </div>
