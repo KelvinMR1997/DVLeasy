@@ -10,7 +10,7 @@ if (isset($_SESSION['login'])) {
 <html lang="en">
 
 <head>
-    <link rel="shortcut icon" href="img\empresa-logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="IMG\empresa-logo.png" type="image/x-icon">
     <link rel="stylesheet" href="CSS\bootstrap.css">
     <link rel="stylesheet" href="CSS\style.css">
     <meta charset="UTF-8">
