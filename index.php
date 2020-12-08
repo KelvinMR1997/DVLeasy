@@ -77,8 +77,8 @@ if (isset($_SESSION['login'])) {
                         y todo lo referente a nuestro trabajo</p>
                 </div>
                 <div class="card-footer">
-                    <a class="btn btn-secondary btn-lg boton-largo color-blanco"
-                        href="https://kelvinmr1997.github.io/NativApps/diagramas.html">Ver más
+                    <a class="btn btn-secondary btn-lg boton-largo color-blanco" target="_blank"
+                        href="https://kelvinmr1997.github.io/NativApps/index.html">Ver más
                         <i class="fas fa-arrow-right"></i></a>
                 </div>
             </div>
